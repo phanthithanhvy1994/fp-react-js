@@ -1,0 +1,86 @@
+[
+  {
+    "key": "1",
+    "asset_request_no": "1230005556",
+    "from": "Store A",
+    "to": "Store B",
+    "date": "01/02/2020",
+    "by": "Account 1",
+    "deliveryDate": "01/02/2020",
+    "status": "Waiting for approval",
+    "items": [
+      {
+        "key": "1",
+        "assetType": "Amy Farha",
+        "productUnit": "Amy Farha",
+        "category": "Store Phu Nhuan",
+        "number": "5",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg"
+      },
+      {
+        "key": "2",
+        "assetType": "Amy Farha",
+        "productUnit": "Amy Farha",
+        "category": "Store Phu Nhuan",
+        "number": 6,
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg"
+      }
+    ]
+  },
+  {
+    "key": "2",
+    "asset_request_no": "88888888",
+    "from": "Store 6767",
+    "to": "Store 6767",
+    "date": "01/02/2020",
+    "by": "Account 1",
+    "deliveryDate": "01/02/2020",
+    "status": "Waiting for approval",
+    "items": [
+      {
+        "key": "1",
+        "assetType": "Amy Farha",
+        "productUnit": "Amy Farha",
+        "category": "Store Phu Nhuan",
+        "number": "5",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg"
+      },
+      {
+        "key": "2",
+        "assetType": "Amy Farha",
+        "productUnit": "Amy Farha",
+        "category": "Store Phu Nhuan",
+        "number": 6,
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg"
+      }
+    ]
+  },
+  {
+    "key": "3",
+    "asset_request_no": "88888888",
+    "from": "Store 6767",
+    "to": "Store 6767",
+    "date": "01/02/2020",
+    "by": "Account 1",
+    "deliveryDate": "01/02/2020",
+    "status": "Waiting for approval",
+    "items": [
+      {
+        "key": "1",
+        "assetType": "Amy Farha",
+        "productUnit": "Amy Farha",
+        "category": "Store Phu Nhuan",
+        "number": "5",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg"
+      },
+      {
+        "key": "2",
+        "assetType": "Amy Farha",
+        "productUnit": "Amy Farha",
+        "category": "Store Phu Nhuan",
+        "number": 6,
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg"
+      }
+    ]
+  }
+]

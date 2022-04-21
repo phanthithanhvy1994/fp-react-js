@@ -1,0 +1,11 @@
+export const loginImg = require('./logo.png');
+export const unfinishedDocumentsImg = require('./Unfinished-Documents.png');
+export const splashImg = require('./splash.svg');
+export const splashTitle = require('./splashTitle.svg');
+export const headerTitle = require('./headerTitle.svg');
+export const headerIcon = require('./headerIcon.svg');
+export const goodsReceipt = require('./goods-receipt.png');
+export const assetTransfer = require('./asset-transfer.png');
+export const assetTransferTracking = require('./asset-transfer.png');
+export const noImage = require('./no-image.png');
+export const uploadImage = require('./upload-image.png');

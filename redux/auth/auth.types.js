@@ -1,0 +1,6 @@
+export const AuthActionTypes = {
+  SET_USER: 'SET_USER',
+  SIGN_OUT_USER: 'SIGN_OUT_USER',
+  SET_TEMP_USER: 'SET_TEMP_USER',
+  REMOVE_TEMP_USER: 'REMOVE_TEMP_USER',
+};
